@@ -5,4 +5,4 @@ Question A. Data Analysis
 
 Question B. Data Visualization
 
-Question C. Data Science - Tagging prediction
+Question C. Data Science
